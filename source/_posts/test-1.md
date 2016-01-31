@@ -1,7 +1,7 @@
 ---
 title: test_1
 date: 2016-01-31 23:57:20
-tags:
+tags: [test1, test2, test]
 ---
 
 这是一个测试页面
@@ -11,6 +11,7 @@ tags:
 
 >添加一行
 
+<!-- more -->
 
 * 123
 * 456
