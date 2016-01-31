@@ -73,6 +73,6 @@ theme: landscape
 
 
 deploy:
-type: git
-repo: git@github.com:youxiaer/youxiaer.github.io.git
-branch: master
+    type: git
+    repo: git@github.com:youxiaer/youxiaer.github.io.git
+    branch: master
